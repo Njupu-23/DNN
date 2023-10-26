@@ -1,2 +1,2 @@
 # DNN
-这是个der
+this is a der
